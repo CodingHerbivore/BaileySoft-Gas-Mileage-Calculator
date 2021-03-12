@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BaileySoft Gas Mileage Calculator", "BaileySoft Gas Mileage Calculator\BaileySoft Gas Mileage Calculator.vbproj", "{0AA3D5A2-12D8-4CA6-B4D6-78BEA4C2313C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA3D5A2-12D8-4CA6-B4D6-78BEA4C2313C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA3D5A2-12D8-4CA6-B4D6-78BEA4C2313C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA3D5A2-12D8-4CA6-B4D6-78BEA4C2313C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA3D5A2-12D8-4CA6-B4D6-78BEA4C2313C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5A3BC58-D488-4C25-A0BC-6CD135838263}
+	EndGlobalSection
+EndGlobal
